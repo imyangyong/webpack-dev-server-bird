@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-server-bird",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package is for the application of bird-proxy-middleware, which is set up on the basis of webpack-dev-server.",
   "license": "MIT",
   "repository": {

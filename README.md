@@ -48,6 +48,15 @@ devServer: {
 }
 ```
 
+**package.json**
+
+```javascript
+"scripts": {
+  "dev": "webpack-dev-server-bird --inline  --config build/webpack.dev.conf.js",
+   // ...
+},
+```
+
 that's all.
 
 Then use your [bird-proxy-middleware](https://www.npmjs.com/package/bird-proxy-middleware), and enjoy it 😸
