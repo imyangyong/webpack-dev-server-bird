@@ -25,7 +25,7 @@ The configuration of using this package is consistent with that of `webpack-dev-
 
 ## Bird Proxy Configure
 
-Suppose your project is built by vue-cli3.
+Suppose your project is built by vue-cli2.
 
 **config/index.js**
 
