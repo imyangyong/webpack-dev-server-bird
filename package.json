@@ -37,7 +37,7 @@
     "webpack": "^2.2.0 || ^3.0.0"
   },
   "dependencies": {
-    "ansi-html": "0.0.7",
+    // "ansi-html": "0.0.7",
     "array-includes": "^3.0.3",
     "bonjour": "^3.5.0",
     "chokidar": "^2.1.2",
